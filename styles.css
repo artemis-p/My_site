@@ -53,8 +53,19 @@ a {
     padding-top: 10px;
 }
 
+.btn-back {
+    background-color: #d6efc7;
+    border: 2px solid #d6efc7;
+    border-radius: 40px;
+    display: block;
+    font-size: medium;
+    font-weight: bold;
+    margin: 20px;
+    padding: 10px;
+}
+
 .heading {
-    padding: 200px 0 40px;
+    padding: 100px 0 40px;
     line-height: 1.5;
 }
 
